@@ -1,1 +1,1 @@
-# getting-started-testing
+Quarkus guide: https://quarkus.io/guides/getting-started-testing
